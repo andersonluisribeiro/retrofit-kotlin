@@ -3,7 +3,6 @@ package application.app.retrofitapplication
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.view.View
 
 class MainActivity : AppCompatActivity() {
 
